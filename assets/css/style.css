@@ -90,10 +90,7 @@ button {
 .circle {
   width: 200px;
   height: 200px;
-  /* su un elemento quadrato il border radius 50% crea una forma a cerchio */
   border-radius: 50%;
-
-  /* Tutte le volte che si usano entrambe le dimensioni width & height BISOGNA riacquisire un rapporto di aspetto naturale con object-fit: cover */
   object-fit: cover;
 }
 
