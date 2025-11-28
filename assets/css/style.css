@@ -164,6 +164,9 @@ footer {
   color: #c8e7f0;
   padding: 2rem;
 }
+a {
+  color: #c8e7f0;
+}
 .line {
   margin-block: 2rem;
 }
